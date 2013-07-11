@@ -1,13 +1,13 @@
 # -*- encoding: utf-8 -*-
 
-version = '0.2.0'
+version = '0.2.1'
 Gem::Specification.new do |s|
 
   s.name = 'sonar'
   s.version = version
-  s.authors = ['Walter Smith']
-  s.email = ['waltee.smith@gmail.com']
-  s.homepage = 'https://github.com/waltee/sonar'
+  s.authors = ['Walter Smith', 'Joran Kikke']
+  s.email = ['waltee.smith@gmail.com', 'joran.k@gmail.com']
+  s.homepage = 'https://github.com/dangerousbeans/sonar'
   s.summary = 'sonar-%s' % version
   s.description = 'API for Testing Rack Applications via Mock HTTP'
 
